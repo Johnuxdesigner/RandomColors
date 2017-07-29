@@ -1,17 +1,17 @@
 var onRun = function(context) {
   // Define color palette
 
-    var color1 =  "#FC583B"
-    var color2 =  "#FFD100"
-    var color3 =  "#3ADCBE"
-    var color4 =  "#5071FF"
-    var color5 =  "#014EEF"
-    var color6 =  "#FFF200"
-    var color7 =  "#78379D"
-    var color8 =  "#FE4F20"
-    var color9 =  "#40BE65"
-    var color10 =  "#EDC054"
-    var color11 =  "#EDC054"
+    var color1 =  "#0088FF"
+    var color2 =  "#00D800"
+    var color3 =  "#FF0000"
+    var color4 =  "#845CEE"
+    var color5 =  "#00D3BD"
+    var color6 =  "#FFBA00"
+    var color7 =  "#F94094"
+    var color8 =  "#00D3ED"
+    var color9 =  "#FF4858"
+    var color10 =  "#3A444A"
+    var color11 =  "#FF8300"
 
 
 //Select a random number
